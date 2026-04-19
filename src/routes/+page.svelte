@@ -10,9 +10,18 @@ h2 {
 	padding: 12px 24px;
 	border-radius: 8px;
 	text-align: center;
+	max-width: 800px;
+	margin: 8px auto;
 }
 p, li {
 	color: #ddd;
+}
+h3, p, ol, ul {
+	max-width: 800px;
+	margin: auto;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	line-height: 1.5;
 }
 a {
 	color: orange;
