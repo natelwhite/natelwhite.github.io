@@ -28,6 +28,15 @@ a {
 }
 </style>
 
+<h1>Professional Self-Assessment</h1>
+<h3>Skills gained at SNHU</h3>
+<p>
+	My coursework at SNHU provided a broad and thorough understanding of the ecosystem of technologies that make up computer science. As for technical work, I've worked on database dashboards (CS340), tests (CS320), encryption & authentication (CS305), and much more. In regard to soft skills, I practiced communicating with stakeholders in multiple project management courses that simulated a team environment.
+</p>
+<h3>Brief Portfolio Summary</h3>
+<p>
+	This portfolio presents three artifacts that each fulfill one core computer science concept. The first artifact covers software design and engineering. This artifact shows my ability to create modular code from existing code, which is slightly different from the ability to design overall. The second artifact covers algorithms and data structures. This artifact shows my abilility to understand complex structures and create algorithms that are compatible with them. Further, this artifact involved porting from OpenGL to SDL, which shows my ability to redesign a program in order to work with a different library than the original project. The last artifact covers databases. This artifact shows my ability to design a database schema and query it.
+</p>
 <h1>Code Review</h1>
 <h2>Enhancement #1: 
 	<a target=_blank href="https://youtu.be/pCuMqB6IoeE">YouTube</a>
@@ -129,7 +138,7 @@ a {
 </p>
 <h3>Justification of Inclusion</h3>
 <p>
-	I selected this artifact because it seemed very barebones. 8 weeks is not nearly enough time to create a complete fullstack application. However, it was a great way to show us how to do every thing required (create server endpoints, authenticate credentials, make database queries, etc.) without a bunch of complexity. I also have a small idea for a social media app designed for a specific community. With that in mind, I adjusted the app to allow so that a user may have a 'friendship' with another user.
+	I selected this artifact because it seemed very barebones. 8 weeks is not nearly enough time to create a complete fullstack application. However, it was a great way to show us how to do every thing required (create server endpoints, authenticate credentials, make database queries, etc.) without a bunch of complexity. I also have a small idea for a social media app designed for a specific community. With that in mind, I adjusted the app to allow so that a user may have a 'friendship' with another user. These adjustments clearly show my knack for designing a database schema and creating queries for it.
 </p>
 <h3>Reflection</h3>
 <p>
